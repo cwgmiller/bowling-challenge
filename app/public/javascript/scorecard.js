@@ -1,3 +1,12 @@
 var Scorecard = function() {
-  this.framescore = [0,0,0,0,0,0,0,0,0,0]
+  this.allFrames = [[null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null],
+                    [null, null, null]]
 };
